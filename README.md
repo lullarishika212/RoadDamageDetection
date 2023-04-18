@@ -58,14 +58,14 @@
 ## Graphical User Interface
 <br>
 
-<img src="results/op ui 1.png" width="60%"/>
+<img src="results/op ui 1.png" width="70%"/>
 <br>
 The Graphical User Interace(GUI) for the model is created using Streamlit which provides the option of uploading the image to the user.
 <br><br>
 
-<img src="results/op ui 2.1.png" width="60%"/>
+<img src="results/op ui 2.1.png" width="70%"/>
 <br>
 The user then clicks on the "Detect" button to run the inferences on the uploaded image and detect road damages with their class probabilities.
 <br><br>
 
-<img src="results/op ui final result.png" width="60%"/>
+<img src="results/op ui final result.png" width="70%"/>
